@@ -58,6 +58,8 @@ Now, you should be able to open a browser and type:
 
 This should give you a screen with your home directory on the farm cluster!
 
+Now, you can make notebooks like this: https://github.com/ljcohen/MMETSP/blob/master/MMETSP_reverse_transrate.ipynb
+
 Useful Links:
 
     https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
