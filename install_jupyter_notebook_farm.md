@@ -58,9 +58,12 @@ Now, you should be able to open a browser and type:
 
 This should give you a screen with your home directory on the farm cluster!
 
-References:
+Useful Links:
+
+https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
 http://www.camillescott.org/dammit/installing.html
 https://github.com/dib-lab/ged-docs/wiki/IPython-on-HPCC#configuring-notebook-server
 https://www.continuum.io/blog/developer/jupyter-and-conda-r
+
 
 
