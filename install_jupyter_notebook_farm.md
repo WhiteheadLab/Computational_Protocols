@@ -1,4 +1,4 @@
-Jupyter notebooks are awesome. We should use them. Here's how to install jupyter locally.
+Jupyter notebooks are awesome. We should use them. Here are instructions for how to install in your local home directory on the UC Davis farm cluster.
 
 Jupyter is a program written in Python. Anaconda is a package manager for Python. It’s straightforward to install and saves a lot of time. 
 
