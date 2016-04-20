@@ -35,7 +35,7 @@ This will open a port 8756. Might take a little while depending on node traffic.
 
 Once it starts, you will see a screen , just type 'q' to quit out. It will give you this:
 
-    ljcohen@farm:~$ jupyter notebook --port 8888
+    ljcohen@farm:~$ jupyter notebook --port 8756
     [I 16:06:14.988 NotebookApp] Serving notebooks from local directory: /home/ljcohen
     [I 16:06:14.989 NotebookApp] 0 active kernels 
     [I 16:06:14.989 NotebookApp] The Jupyter Notebook is running at: http://localhost:8888/
