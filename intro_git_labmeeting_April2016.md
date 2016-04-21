@@ -1,3 +1,17 @@
+Before you started, please make sure you have git and other tools installed locally:
+
+* Install Xcode from the Mac App Store (requires root).
+* Register as an Apple Developer.
+* Install the Xcode command-line tools: Xcode -> preferences -> Downloads -> Command Line Tools (requires root).
+* http://brew.sh/
+
+        brew install git
+
+If you run into problems, here is a good reference:
+
+https://git-scm.com/book/en/v1/Getting-Started-Installing-Git#Installing-on-Mac
+
+
 Originally written here with screenshots:
 https://monsterbashseq.wordpress.com/2016/03/08/intro-git-lab-meeting/
 
