@@ -13,8 +13,9 @@ This will download a shell script which you can run to install Anaconda:
 
 (Select yes when prompted on adding it to your .bashrc).
 
-Then install Jupyter notebook:
+Then source and install Jupyter notebook:
 
+    source ~/.bashrc
     conda install jupyter
 
 Then install R kernel for Jupyter:
