@@ -1,6 +1,6 @@
 [Jupyter notebooks](http://jupyter.org/) are awesome. We should use them. Here are instructions for how to install in your local home directory on the UC Davis farm cluster.
 
-Jupyter is a program written in Python. Anaconda is a package manager for Python. It’s straightforward to install and saves a lot of time. 
+Jupyter is a program written in Python. [Anaconda](https://docs.continuum.io/anaconda/index) is a package manager for Python. It’s straightforward to install and saves a lot of time. 
 
 Download it:
 
