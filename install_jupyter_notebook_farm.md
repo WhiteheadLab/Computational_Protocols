@@ -11,9 +11,9 @@ This will download a shell script which you can run to install Anaconda:
 
     bash Anaconda2-2.4.0-Linux-x86_64.sh
 
-(Select yes when prompted on adding it to your .bashrc).
+(You will have to scroll through a policy document. Type yes, and yes again when prompted to add the default directory to your .bashrc).
 
-Then source and install Jupyter notebook:
+Source and install Jupyter notebook:
 
     source ~/.bashrc
     conda install jupyter
@@ -22,7 +22,7 @@ Then install R kernel for Jupyter:
 
     conda install -c r r-essentials
 
-Source your ~/.bashrc
+Source:
 
     source ~/.bashrc
 
