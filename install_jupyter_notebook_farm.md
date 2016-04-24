@@ -1,4 +1,4 @@
-Jupyter notebooks are awesome. We should use them. Here are instructions for how to install in your local home directory on the UC Davis farm cluster.
+[Jupyter notebooks](http://jupyter.org/) are awesome. We should use them. Here are instructions for how to install in your local home directory on the UC Davis farm cluster.
 
 Jupyter is a program written in Python. Anaconda is a package manager for Python. It’s straightforward to install and saves a lot of time. 
 
@@ -63,10 +63,10 @@ Now, you can make notebooks like this: https://github.com/ljcohen/MMETSP/blob/ma
 
 Useful Links:
 
-    https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
-    http://www.camillescott.org/dammit/installing.html
-    https://github.com/dib-lab/ged-docs/wiki/IPython-on-HPCC#configuring-notebook-server
-    https://www.continuum.io/blog/developer/jupyter-and-conda-r
+* https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks
+* http://www.camillescott.org/dammit/installing.html
+* https://github.com/dib-lab/ged-docs/wiki/IPython-on-HPCC#configuring-notebook-server
+* https://www.continuum.io/blog/developer/jupyter-and-conda-r
 
 
 
